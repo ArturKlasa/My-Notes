@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "840779576091",
+    "project_id": "mynotes-artur",
+    "storage_bucket": "mynotes-artur.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:840779576091:android:889d5d4ae916a4849d59be",
+        "android_client_info": {
+          "package_name": "com.whatever.mynotes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6OmJRVs_8OrdaN7ukJj9k2Z-buvm5EY4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
